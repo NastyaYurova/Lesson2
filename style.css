@@ -1,0 +1,52 @@
+.color {
+    background-color: #4f4d4d;
+}
+
+.collor {
+    background-color: #9898ab;
+}
+
+h3 {
+    background: white;
+    font-size: 16pt;
+    color: #000000;
+    font-family: Geneva, Arial;
+    padding: 5px;
+
+}
+
+#header {
+
+    margin-left: 100px;
+    width: 600px;
+    height: 200px;
+    background-color: #bdb6f8;
+    margin-bottom: 10px;
+
+}
+
+body {
+    background-color: #DDDBE7;
+    font-family: Geneva, Arial;
+    font-size: 12pt;
+}
+
+.img1 {
+    text-align: center;
+}
+
+.img2 {
+    text-align: center;
+}
+
+.img3 {
+    text-align: center;
+}
+
+.img4 {
+    text-align: center;
+}
+
+.img5 {
+    text-align: center;
+}
